@@ -1,3 +1,6 @@
+/*Write a program that accepts an employee's ID, present days in a month, and the amount
+he received per day. Print the employee's ID and salary for a particular month.*/
+
 #include<stdio.h>
 
 int main()
