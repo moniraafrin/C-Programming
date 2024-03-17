@@ -3,10 +3,10 @@ int main()
 {
 
 
-    int n;
-    printf("Enter any ASCII value: ");
-    scanf("%d",&n);
-    printf("The ASCII character is: %c\n",n);
+    char ch;
+    printf("Enter any ASCII character: ");
+    scanf("%c",&ch);
+    printf("The ASCII Value is: %d\n",ch);
 
 return 0;
 
